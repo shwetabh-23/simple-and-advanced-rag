@@ -1,0 +1,9 @@
+llama-index
+weaviate-client 
+llama-index-vector-stores-weaviate
+python-dotenv
+transformers
+torch
+bitsandbytes
+accelerate
+llama-index-embeddings-huggingface
